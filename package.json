@@ -1,0 +1,19 @@
+{
+  "name": "serv",
+  "version": "1.0.0",
+  "main": "serv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect-mongodb-session": "^2.4.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.12.8"
+  },
+  "devDependencies": {},
+  "description": ""
+}
